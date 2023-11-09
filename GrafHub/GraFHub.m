@@ -1,6 +1,6 @@
 
 
-function [H]=EEG_GAD(A0,f0)
+function [H]=GraFHub(A0,f0)
 %  Input: A0: Adjacency matrix NxN
 %         f0: Graph signal matrix Nxp
 %  Output: H: Filter response
